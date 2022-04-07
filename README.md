@@ -3,7 +3,6 @@
 
 
 # this is part of one of my projet  https://github.com/dk9510/Automate-With-Actions
-## i got idea for this project from project-discovery's pd-actions that is not available 
 
 ### what is Github actions
 - github actions is one feature of the github that provide us the 2000 minute vm for testing our project in different os
