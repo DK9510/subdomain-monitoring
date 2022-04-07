@@ -2,7 +2,7 @@
 # this can be support both Active and passive enumeration for subdomain discovery 
 
 
-# Automate-With-Actions
+# this is part of one of my projet  https://github.com/dk9510/Automate-With-Actions
 ## i got idea for this project from project-discovery's pd-actions that is not available 
 
 ### what is Github actions
