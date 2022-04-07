@@ -3,6 +3,6 @@ discord:
     discord_channel: "dk-actions-report"
     discord_username: "Github-Bot"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/api/webhooks/887375641262039091/hY5SiD-kpY_gH7mU_V56YJyXSq4uuOjArV5CSvRePBBZEL7wamsWn0XBBTmOQy-SXT3u"
+    discord_webhook_url: "https://discord.com/api/webhooks/961701913852772352/iL8v2VIptJ_M9b1Br2vWhVF1epq-7CDm_I9SD7zfEpMQFlSlNqm1mgj7JxGAqm2-77TJ"
 
 # notify -provider-config notify.yaml -data custom text 
