@@ -1,0 +1,8 @@
+discord:
+  - id: "nuclei"
+    discord_channel: "dk-actions-report"
+    discord_username: "Github-Bot"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/887375641262039091/hY5SiD-kpY_gH7mU_V56YJyXSq4uuOjArV5CSvRePBBZEL7wamsWn0XBBTmOQy-SXT3u"
+
+# notify -provider-config notify.yaml -data custom text 
