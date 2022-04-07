@@ -59,17 +59,7 @@ otherwise you see like this
 - for currently  this doesn't work for github vm, but if you clone repo and run scripts in local vm or in vps then it will work
 - config file for notity is `configs/notify.yaml`
 
-# configuring scripts
-- if target program have some rate limit then tune the script acc to rate limit
-- the scripts that need to tune is
-```bash
-scripts/fuzzer.sh
-configs/nuclei.yaml - nuclei config file
-scripts/vhost.sh
-scripts/port-scan.sh
-scripts/httpx.sh
-scripts/screenshot.sh
-```
+
 
 # give domain name
 - if all the above setup is complete that we can proceed with next step is give domain 
