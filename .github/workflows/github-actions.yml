@@ -4,7 +4,7 @@ on:
 #     branches:    
 #       - 'work-flow'
     schedule:
-       - cron: "*/15 * * * *"
+       - cron: "*/5 * * * *"
 
 permissions: write-all 
 jobs:
