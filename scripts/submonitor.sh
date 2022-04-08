@@ -4,10 +4,11 @@
 
 scripts/subdomain.sh 
 cd dns-resolve
-massdns -r resolvers.txt -t A -o S -w a-record.txt final_list.txt
-massdns -r resolvers.txt -t CNAME -o S -w cname-record.txt final_list.txt
-massdns -r resolvers.txt -t TXT -o S -w txt-record.txt final_list.txt
-massdns -r resolvers.txt -t AAAA -o S -w aaaa-record.txt final_list.txt
+cp ../output/subdomains.txt .
+massdns -r resolvers.txt -t A -o S -w a-record.txt subdomains.txt
+massdns -r resolvers.txt -t CNAME -o S -w cname-record.txt subdomains.txt
+massdns -r resolvers.txt -t TXT -o S -w txt-record.txt subdomains.txt
+massdns -r resolvers.txt -t AAAA -o S -w aaaa-record.txt subdomains.txt
 
 
 cat a-record.txt |grep " A "|	sed "s/A/:/g" |tee a
@@ -22,7 +23,7 @@ sleep 2;
 rm a-record.txt cname-record.txt txt-record.txt aaaa-record.txt
 
 
-git add dns-resolve/* 
+git add dns-resolve/
 git config --global user.email "d.b.kapadiya9510@gmail.com"
 git config --global user.name "DK9510"
 git commit -a -m "Subdomain enumeration completed"
