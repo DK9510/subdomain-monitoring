@@ -16,7 +16,7 @@ jobs:
     steps:
      - uses: actions/checkout@v2
        with: 
-          repository: DK9510/subdomain-monitoring
+          repository: DK9510/subdomain-monitoring@main
      - run: |
         echo "hello DK"
         ##this script is for installation of tools in the github vm where workflow runs
