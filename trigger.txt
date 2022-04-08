@@ -1,2 +1,1 @@
 This text file to trigger the workflow acitons
-trigger
