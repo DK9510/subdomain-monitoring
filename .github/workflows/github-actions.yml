@@ -3,6 +3,8 @@ on:
   push:
     branches:    
       - 'work-flow'
+#     schedule:
+#        - cron: "59 * * * *"
 
 permissions: write-all 
 jobs:
