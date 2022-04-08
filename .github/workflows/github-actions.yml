@@ -1,10 +1,10 @@
-name: GitHub Actions
+name: asset monitor
 on:
-  push:
-    branches:    
-      - 'work-flow'
-#     schedule:
-#        - cron: "59 * * * *"
+#   push:
+#     branches:    
+#       - 'work-flow'
+    schedule:
+       - cron: "59 * * * *"
 
 permissions: write-all 
 jobs:
