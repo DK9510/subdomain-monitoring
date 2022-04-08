@@ -38,6 +38,7 @@ rm -rfd subfind* amass.txt
 rm asset.txt domains.txt  
 
 #git add final_list.txt
+git pull
 git add subdomains.txt  
 git config --global user.email "d.b.kapadiya9510@gmail.com"
 git config --global user.name "DK9510"
