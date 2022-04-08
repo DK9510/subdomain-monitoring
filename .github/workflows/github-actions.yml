@@ -4,7 +4,7 @@ on:
 #     branches:    
 #       - 'work-flow'
     schedule:
-       - cron: "*/59 * * * *"
+       - cron: "*/10 * * * *"
 
 permissions: write-all 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     steps:
      - uses: actions/checkout@v2
        with: 
-          repository: DK9510/subdomain-monitoring@main
+          repository: DK9510/subdomain-monitoring
      - run: |
         echo "hello DK"
         ##this script is for installation of tools in the github vm where workflow runs
