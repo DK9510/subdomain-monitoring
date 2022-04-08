@@ -1,8 +1,8 @@
-# Hey this repo is created by DK9510 for monitoring diffrent web assets of any organizations
-# this can be support both Active and passive enumeration for subdomain discovery 
+## This repo is created by DK9510 for monitoring diffrent web assets of any organizations
+## this can be support both Active and passive enumeration for subdomain discovery 
 
 
-# this is part of one of my projet  https://github.com/dk9510/Automate-With-Actions
+## this is part of one of my projet  https://github.com/dk9510/Automate-With-Actions
 
 ### what is Github actions
 - github actions is one feature of the github that provide us the 2000 minute vm for testing our project in different os
@@ -90,19 +90,11 @@ ads.youtube.com
 # run workflow
 - go to `.github/workflows/automate-with-actions.yaml` file in your 2nd private repository and edit workflow file like comment or uncomment `echo hello DK or or any echo file but don't script file, if you do that script will not run but if you want to not run that script file than you comment it`
 - commit the change and it will start your workflow, you can see it in `actions` tab in that repository, 
-## NOTE:
-`Every time you commit in 2nd repository workflow will run so, take note of this while commit change to workflow file, you only have 2000 min per month `
-## NOTE :
-`if you put domains of large companies break workflow in like in 1 st phase only do sub-enum, httpx, vhost, dns-resolve & port-scan & in 2nd phase do fuzzing and nuclei scan, because if your workflow run for more than 360 min, then github cancel workflow and you lost your result if it is not commited + you lose 360 min from total 2000 min`
+
 
 ## NOTE:
 `the vm instance is created on the basis of workflow file, and this workflow only runs if any push event happened in that repository , where the .github/workflows/your-workflow-file.yaml is present`
 
-## NOTE: 
-`In every script i have put example email and name you need to modify that email and name acc to your github accout and name`
-
-## NOTE:
-`you can add more scripts and tune it as you wish but dont forget to modify workflow file in .github/workflows/*.yaml file unless it dont reflect if you have add new scripts.`
 
 ## Note:
 `if you are using. VPS then no need to commit in github just comment all commands in all scripts that used to work with github repository and no need to generate and add personal access token. But only for VPS`
