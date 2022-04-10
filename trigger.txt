@@ -1,2 +1,2 @@
-This text file to trigger the workflow acitons
+This text file to trigger the workflow 
 trigger
