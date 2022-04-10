@@ -1,8 +1,10 @@
 name: asset monitor
 on:
   push:
-    branches:    
-      - 'work-flow'
+      paths: 
+        - 'trigger.txt'
+#     branches:    
+#       - 'work-flow'
 #     schedule:
 #        - cron: "*/10 * * * *"
 
