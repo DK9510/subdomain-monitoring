@@ -24,7 +24,7 @@ sleep 2;
 rm a-record.txt cname-record.txt txt-record.txt aaaa-record.txt
 
 
-git add dns-resolve/
+git add *
 git config --global user.email "d.b.kapadiya9510@gmail.com"
 git config --global user.name "DK9510"
 git commit -a -m "Subdomain enumeration completed"
