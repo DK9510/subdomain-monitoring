@@ -38,12 +38,12 @@
 8. only change this in workflow but
 ![assets/work-flow.png]
 9. now you workflow file is complete just commit the changes and go to actions page
-![img5](https://github.com/DK9510/automate-with-actions/assets/eg-actions-1.png)
-![img6](https://github.com/DK9510/automate-with-actions/assets/eg-actions-2.png)
+![img5](https://github.com/DK9510/automate-with-actions/blob/main/assets/eg-actions-1.png)
+![img6](https://github.com/DK9510/automate-with-actions/assets/blob/main/eg-actions-2.png)
 10. if your workflow runs successfully and exit than you see this
-![img7](https://github.com/DK9510/automate-with-actions/assets/eg-actions-3.png)
+![img7](https://github.com/DK9510/automate-with-actions/blob/main/assets/eg-actions-3.png)
 otherwise you see like this
-![img8](https://github.com/DK9510/automate-with-actions/assets/eg-actions-4.png)
+![img8](https://github.com/DK9510/automate-with-actions/blob/main/assets/eg-actions-4.png)
 
 - if your workflow is run successfully we go to next step
 
