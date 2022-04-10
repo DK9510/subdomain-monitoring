@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script is for subdomain monitor and dns resolution
+## this script is for subdomain monitor and dns resolution
 
 scripts/subdomain.sh 
 cd dns-resolve
