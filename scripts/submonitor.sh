@@ -5,10 +5,11 @@
 scripts/subdomain.sh 
 cd dns-resolve
 cp ../output/subdomains.txt .
-massdns -r resolvers.txt -t A -o S -w a-record.txt subdomains.txt
-massdns -r resolvers.txt -t CNAME -o S -w cname-record.txt subdomains.txt
-massdns -r resolvers.txt -t TXT -o S -w txt-record.txt subdomains.txt
-massdns -r resolvers.txt -t AAAA -o S -w aaaa-record.txt subdomains.txt
+chmod +x massdns
+./massdns -r resolvers.txt -t A -o S -w a-record.txt subdomains.txt
+./massdns -r resolvers.txt -t CNAME -o S -w cname-record.txt subdomains.txt
+./massdns -r resolvers.txt -t TXT -o S -w txt-record.txt subdomains.txt
+./massdns -r resolvers.txt -t AAAA -o S -w aaaa-record.txt subdomains.txt
 
 
 cat a-record.txt |grep " A "|	sed "s/A/:/g" |tee a
