@@ -48,4 +48,4 @@ git branch -M main
 git push origin main --force
 echo " SUbdomain Enumeraiton is Done.."
 echo "subdomains enumeration done and now sending new subdomains list" | notify -silent -provider-config configs/notify.yaml
-cat subdomains.txt| anew monitor.txt | notify -silent -provider-config configs/notify.yaml 
+cat output/subdomains.txt| anew monitor.txt | notify -silent -provider-config configs/notify.yaml 
