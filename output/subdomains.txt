@@ -1,1 +1,144 @@
 
+static.remove.bg
+api.remove.bg
+o.remove.bg
+help.remove.bg
+www.remove.bg
+api-internal.remove.bg
+r.remove.bg
+developer.remove.bg
+remove.bg
+staging.api.remove.bg
+api.designify.com
+o3944.e.news.designify.com
+staging.api.designify.com
+designify.com
+test.designify.com
+*.e.news.designify.com
+*.news.designify.com
+staging.designify.com
+www.designify.com
+mongodb.cr1.kaleido.ai
+nimp-talk.cr1.kaleido.ai
+lorempicsum.cr1.kaleido.ai
+captain.cr1.kaleido.ai
+nimp.cr1.kaleido.ai
+labs.cr1.kaleido.ai
+nimp-test.cr1.kaleido.ai
+candoku.cr1.kaleido.ai
+danni.kaleido.ai
+api.kaleido.ai
+labs.kaleido.ai
+tools.kaleido.ai
+cd.tools.kaleido.ai
+deps.kaleido.ai
+accounts.kaleido.ai
+status.kaleido.ai
+www.kaleido.ai
+staging.danni.kaleido.ai
+kaleido.ai
+api.unscreen.com
+www.unscreen.com
+unscreen.com
+staging.api.unscreen.com
+e.hello.unscreen.com
+*.hello.unscreen.com
+hello.unscreen.com
+*.unscreen.com
+*.labs.kaleido.ai
+internal.kaleido.ai
+app.kaleido.ai
+ help.remove.bg
+ www.remove.bg
+ staging.api.remove.bg
+ api-internal.remove.bg
+ www.o.remove.bg
+ developer.remove.bg
+ beta.remove.bg
+ remove.bg
+ 3.remove.bg
+ 5.remove.bg
+ static.remove.bg
+ api.remove.bg
+ o.remove.bg
+ api-beta.remove.bg
+ www.api.remove.bg
+ r.remove.bg
+ rd.remove.bg
+ o3944.e.news.designify.com
+ test.designify.com
+ staging.designify.com
+ www.designify.com
+ api.designify.com
+ staging.api.designify.com
+ api.kaleido.ai
+ nimp-test.cr1.kaleido.ai
+ labs.kaleido.ai
+ mongodb.cr1.kaleido.ai
+ danni.kaleido.ai
+ deps.kaleido.ai
+ internal.kaleido.ai
+ account.kaleido.ai
+ status.kaleido.ai
+ kld1.host.kaleido.ai
+ staging.kaleido.ai
+ kld6.host.kaleido.ai
+ accounts.kaleido.ai
+ captain.cr1.kaleido.ai
+ cd.tools.kaleido.ai
+ kaleido.ai
+ lorempicsum.cr1.kaleido.ai
+ nimp.cr1.kaleido.ai
+ tools.kaleido.ai
+ candoku.cr1.kaleido.ai
+ kld2.host.kaleido.ai
+ kld4.host.kaleido.ai
+ kld7.host.kaleido.ai
+ nimp-talk.cr1.kaleido.ai
+ www.kaleido.ai
+ kld3.host.kaleido.ai
+ kld5.host.kaleido.ai
+ labs.cr1.kaleido.ai
+ app.kaleido.ai
+ staging.danni.kaleido.ai
+ staging.labs.kaleido.ai
+ bullfrogspas.unscreen.com
+ desilady.unscreen.com
+ unscreen.com
+ www.unscreen.com
+ staging.api.unscreen.com
+ api.unscreen.com
+ staging.unscreen.com
+zendesk2.remove.bg
+zendesk3.remove.bg
+e.hello.remove.bg
+api-tls12.remove.bg
+zendesk1.remove.bg
+api-beta.remove.bg
+busy.remove.bg
+www.o.remove.bg
+hello.remove.bg
+rd.remove.bg
+beta.remove.bg
+www.api.remove.bg
+kld4.host.kaleido.ai
+kld1.host.kaleido.ai
+account.kaleido.ai
+kld5.host.kaleido.ai
+autodiscover.kaleido.ai
+kld7.host.kaleido.ai
+kld2.host.kaleido.ai
+kld3.host.kaleido.ai
+staging.kaleido.ai
+staging.unscreen.com
+3.remove.bg
+aws.designify.com
+news.designify.com
+mail.designify.com
+5.remove.bg
+registered.designify.com
+e.news.designify.com
+staging.labs.kaleido.ai
+kld6.host.kaleido.ai
+desilady.unscreen.com
+bullfrogspas.unscreen.com
