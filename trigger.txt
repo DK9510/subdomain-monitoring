@@ -1,2 +1,2 @@
 This text file to trigger the workflow 
-trigger
+trigger.txt
