@@ -1,5 +1,5 @@
 name: asset monitor
- on:
+on:
    push:
        paths: 
          - 'trigger.txt'
