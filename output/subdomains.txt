@@ -1,0 +1,355 @@
+mongodb.cr1.kaleido.ai
+nimp-talk.cr1.kaleido.ai
+lorempicsum.cr1.kaleido.ai
+captain.cr1.kaleido.ai
+nimp.cr1.kaleido.ai
+labs.cr1.kaleido.ai
+nimp-test.cr1.kaleido.ai
+candoku.cr1.kaleido.ai
+danni.kaleido.ai
+api.kaleido.ai
+labs.kaleido.ai
+tools.kaleido.ai
+cd.tools.kaleido.ai
+deps.kaleido.ai
+accounts.kaleido.ai
+status.kaleido.ai
+www.kaleido.ai
+static.remove.bg
+api.remove.bg
+api-internal.remove.bg
+o.remove.bg
+help.remove.bg
+r.remove.bg
+developer.remove.bg
+www.remove.bg
+remove.bg
+staging.api.remove.bg
+e.hello.remove.bg
+*.hello.remove.bg
+hello.remove.bg
+*.remove.bg
+api-beta.remove.bg
+www.api.remove.bg
+www.designify.com
+designify.com
+o3944.e.news.designify.com
+staging.api.designify.com
+api.designify.com
+test.designify.com
+*.e.news.designify.com
+*.news.designify.com
+staging.designify.com
+kaleido.ai
+staging.danni.kaleido.ai
+api.unscreen.com
+www.unscreen.com
+unscreen.com
+staging.api.unscreen.com
+e.hello.unscreen.com
+*.hello.unscreen.com
+hello.unscreen.com
+*.unscreen.com
+*.labs.kaleido.ai
+internal.kaleido.ai
+app.kaleido.ai
+iite.indusuni.ac.in
+www.iite.indusuni.ac.in
+iict.indusuni.ac.in
+www.indusuni.ac.in
+indusuni.ac.in
+mta-sts.idea.indusuni.ac.in
+mta-sts.iiss.indusuni.ac.in
+alumni.indusuni.ac.in
+mta-sts.ids.indusuni.ac.in
+iims.indusuni.ac.in
+gtt.indusuni.ac.in
+coursecontent.indusuni.ac.in
+mta-sts.iite.indusuni.ac.in
+ids.indusuni.ac.in
+iate.indusuni.ac.in
+mta-sts.iate.indusuni.ac.in
+aimes.indusuni.ac.in
+mta-sts.indusuni.ac.in
+innovista.indusuni.ac.in
+mta-sts.ishls.indusuni.ac.in
+ishls.indusuni.ac.in
+icsii.indusuni.ac.in
+sac.indusuni.ac.in
+idea.indusuni.ac.in
+mta-sts.iims.indusuni.ac.in
+convocation.indusuni.ac.in
+iiss.indusuni.ac.in
+isscc.indusuni.ac.in
+mta-sts.iict.indusuni.ac.in
+www.convocation.indusuni.ac.in
+www.gtt.indusuni.ac.in
+www.icsii.indusuni.ac.in
+www.idea.indusuni.ac.in
+www.iiss.indusuni.ac.in
+nfe.indusuni.ac.in
+school.indusuni.ac.in
+www.aimes.indusuni.ac.in
+www.iate.indusuni.ac.in
+www.ids.indusuni.ac.in
+www.iict.indusuni.ac.in
+www.iims.indusuni.ac.in
+www.innovista.indusuni.ac.in
+www.ishls.indusuni.ac.in
+www.isscc.indusuni.ac.in
+www.nfe.indusuni.ac.in
+www.sac.indusuni.ac.in
+www.school.indusuni.ac.in
+indacon2020.indusuni.ac.in
+www.indacon2020.indusuni.ac.in
+indacon.indusuni.ac.in
+www.indacon.indusuni.ac.in
+www.coursecontent.indusuni.ac.in
+icrtcee.indusuni.ac.in
+www.icrtcee.indusuni.ac.in
+autodiscover.indusuni.ac.in
+cpanel.indusuni.ac.in
+cpcalendars.indusuni.ac.in
+cpcontacts.indusuni.ac.in
+mail.indusuni.ac.in
+webdisk.indusuni.ac.in
+webmail.indusuni.ac.in
+demo.indusuni.ac.in
+www.demo.indusuni.ac.in
+language.indusuni.ac.in
+www.language.indusuni.ac.in
+iftd.indusuni.ac.in
+nceetm.indusuni.ac.in
+robotics.indusuni.ac.in
+sparx.indusuni.ac.in
+www.iftd.indusuni.ac.in
+www.nceetm.indusuni.ac.in
+www.robotics.indusuni.ac.in
+www.sparx.indusuni.ac.in
+enquiry.indusuni.ac.in
+fallingwallslab.indusuni.ac.in
+iece.indusuni.ac.in
+industry.indusuni.ac.in
+instincts.indusuni.ac.in
+japan.indusuni.ac.in
+sdc.indusuni.ac.in
+www.alumni.indusuni.ac.in
+www.enquiry.indusuni.ac.in
+www.fallingwallslab.indusuni.ac.in
+www.iece.indusuni.ac.in
+www.industry.indusuni.ac.in
+www.instincts.indusuni.ac.in
+www.japan.indusuni.ac.in
+www.sdc.indusuni.ac.in
+events.indusuni.ac.in
+icrisd.indusuni.ac.in
+ige.indusuni.ac.in
+isnt.indusuni.ac.in
+www.events.indusuni.ac.in
+www.icrisd.indusuni.ac.in
+www.ige.indusuni.ac.in
+www.isnt.indusuni.ac.in
+idea1.indusuni.ac.in
+www.idea1.indusuni.ac.in
+sscc.indusuni.ac.in
+www.sscc.indusuni.ac.in
+www.i-get.indusuni.ac.in
+hist.indusuni.ac.in
+www.hist.indusuni.ac.in
+online.indusuni.ac.in
+www.online.indusuni.ac.in
+ static.remove.bg
+ developer.remove.bg
+ rd.remove.bg
+ 3.remove.bg
+ help.remove.bg
+ api-internal.remove.bg
+ api-beta.remove.bg
+ r.remove.bg
+ 5.remove.bg
+ www.o.remove.bg
+ remove.bg
+ www.remove.bg
+ api.remove.bg
+ staging.api.remove.bg
+ o.remove.bg
+ www.api.remove.bg
+ beta.remove.bg
+ www.designify.com
+ api.designify.com
+ o3944.e.news.designify.com
+ staging.api.designify.com
+ test.designify.com
+ staging.designify.com
+ tools.kaleido.ai
+ staging.kaleido.ai
+ kaleido.ai
+ kld1.host.kaleido.ai
+ account.kaleido.ai
+ mongodb.cr1.kaleido.ai
+ internal.kaleido.ai
+ app.kaleido.ai
+ kld7.host.kaleido.ai
+ staging.labs.kaleido.ai
+ api.kaleido.ai
+ cd.tools.kaleido.ai
+ nimp-test.cr1.kaleido.ai
+ labs.cr1.kaleido.ai
+ labs.kaleido.ai
+ lorempicsum.cr1.kaleido.ai
+ kld3.host.kaleido.ai
+ status.kaleido.ai
+ danni.kaleido.ai
+ deps.kaleido.ai
+ kld2.host.kaleido.ai
+ kld5.host.kaleido.ai
+ accounts.kaleido.ai
+ www.kaleido.ai
+ captain.cr1.kaleido.ai
+ staging.danni.kaleido.ai
+ nimp-talk.cr1.kaleido.ai
+ kld4.host.kaleido.ai
+ kld6.host.kaleido.ai
+ candoku.cr1.kaleido.ai
+ nimp.cr1.kaleido.ai
+ bullfrogspas.unscreen.com
+ desilady.unscreen.com
+ staging.unscreen.com
+ unscreen.com
+ www.unscreen.com
+ api.unscreen.com
+ staging.api.unscreen.com
+ hello.unscreen.com
+ iiss.indusuni.ac.in
+ isscc.indusuni.ac.in
+ www.ishls.indusuni.ac.in
+ www.idea1.indusuni.ac.in
+ school.indusuni.ac.in
+ webmail.indusuni.ac.in
+ innovista.indusuni.ac.in
+ www.language.indusuni.ac.in
+ www.iims.indusuni.ac.in
+ www.ige.indusuni.ac.in
+ www.nceetm.indusuni.ac.in
+ www.i-get.indusuni.ac.in
+ mta-sts.indusuni.ac.in
+ language.indusuni.ac.in
+ www.gtt.indusuni.ac.in
+ www.isscc.indusuni.ac.in
+ www.school.indusuni.ac.in
+ www.indacon2020.indusuni.ac.in
+ www.hist.indusuni.ac.in
+ www.sscc.indusuni.ac.in
+ icsii.indusuni.ac.in
+ www.demo.indusuni.ac.in
+ industry.indusuni.ac.in
+ www.alumni.indusuni.ac.in
+ nfe.indusuni.ac.in
+ www.iece.indusuni.ac.in
+ mta-sts.ishls.indusuni.ac.in
+ sac.indusuni.ac.in
+ www.robotics.indusuni.ac.in
+ icrisd.indusuni.ac.in
+ hist.indusuni.ac.in
+ iftd.indusuni.ac.in
+ webdisk.indusuni.ac.in
+ iite.indusuni.ac.in
+ www.convocation.indusuni.ac.in
+ www.indacon.indusuni.ac.in
+ www.icrtcee.indusuni.ac.in
+ sparx.indusuni.ac.in
+ www.online.indusuni.ac.in
+ www.iite.indusuni.ac.in
+ alumni.indusuni.ac.in
+ www.coursecontent.indusuni.ac.in
+ www.idea.indusuni.ac.in
+ instincts.indusuni.ac.in
+ www.icrisd.indusuni.ac.in
+ indacon2020.indusuni.ac.in
+ icrtcee.indusuni.ac.in
+ iict.indusuni.ac.in
+ gtt.indusuni.ac.in
+ ige.indusuni.ac.in
+ robotics.indusuni.ac.in
+ sscc.indusuni.ac.in
+ aimes.indusuni.ac.in
+ iate.indusuni.ac.in
+ idea.indusuni.ac.in
+ www.iiss.indusuni.ac.in
+ cpanel.indusuni.ac.in
+ mail.indusuni.ac.in
+ mta-sts.iiss.indusuni.ac.in
+ www.enquiry.indusuni.ac.in
+ www.sdc.indusuni.ac.in
+ www.icsii.indusuni.ac.in
+ www.isnt.indusuni.ac.in
+ sdc.indusuni.ac.in
+ ids.indusuni.ac.in
+ ishls.indusuni.ac.in
+ mta-sts.ids.indusuni.ac.in
+ mta-sts.iims.indusuni.ac.in
+ www.events.indusuni.ac.in
+ www.iftd.indusuni.ac.in
+ coursecontent.indusuni.ac.in
+ www.instincts.indusuni.ac.in
+ www.aimes.indusuni.ac.in
+ enquiry.indusuni.ac.in
+ www.ids.indusuni.ac.in
+ www.sac.indusuni.ac.in
+ isnt.indusuni.ac.in
+ autodiscover.indusuni.ac.in
+ convocation.indusuni.ac.in
+ mta-sts.iate.indusuni.ac.in
+ mta-sts.idea.indusuni.ac.in
+ www.nfe.indusuni.ac.in
+ www.iate.indusuni.ac.in
+ events.indusuni.ac.in
+ www.japan.indusuni.ac.in
+ www.iict.indusuni.ac.in
+ mta-sts.iict.indusuni.ac.in
+ www.fallingwallslab.indusuni.ac.in
+ fallingwallslab.indusuni.ac.in
+ japan.indusuni.ac.in
+ www.sparx.indusuni.ac.in
+ nceetm.indusuni.ac.in
+ indacon.indusuni.ac.in
+ online.indusuni.ac.in
+ idea1.indusuni.ac.in
+ www.indusuni.ac.in
+ iims.indusuni.ac.in
+ www.innovista.indusuni.ac.in
+ demo.indusuni.ac.in
+ mta-sts.iite.indusuni.ac.in
+ iece.indusuni.ac.in
+ www.industry.indusuni.ac.in
+ iic.indusuni.ac.in
+staging.unscreen.com
+beta.remove.bg
+desilady.unscreen.com
+www.o.remove.bg
+bullfrogspas.unscreen.com
+rd.remove.bg
+busy.remove.bg
+zendesk3.remove.bg
+kld1.host.kaleido.ai
+account.kaleido.ai
+staging.kaleido.ai
+api-tls12.remove.bg
+zendesk2.remove.bg
+zendesk1.remove.bg
+autodiscover.kaleido.ai
+kld4.host.kaleido.ai
+registered.designify.com
+mail.designify.com
+kld5.host.kaleido.ai
+kld3.host.kaleido.ai
+kld2.host.kaleido.ai
+e.news.designify.com
+news.designify.com
+kld7.host.kaleido.ai
+iic.indusuni.ac.in
+aws.designify.com
+3.remove.bg
+5.remove.bg
+staging.labs.kaleido.ai
+kld6.host.kaleido.ai
