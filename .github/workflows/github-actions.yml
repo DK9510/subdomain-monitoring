@@ -1,12 +1,14 @@
 name: asset monitor
-on:
+# on:
 #   push:
 #       paths: 
 #         - 'trigger.txt'
 #     branches:    
 #       - 'work-flow'
+on:
   schedule:
-        - cron: "*/10 *  * *"
+    # Runs "at minute 55 past every hour" (see https://crontab.guru)
+    - cron: '10 * * * *'
 # runs every 10 minutes
 
 permissions: write-all 
