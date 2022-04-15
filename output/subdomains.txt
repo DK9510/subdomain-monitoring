@@ -765,3 +765,6 @@ stagingcdn.dream11.com
 web.dream11.com
 cdn4.dream11.com
 notification-stag.dream11.com
+ designify.com\ndesignify.com\ne.news.designify.com\nnews.designify.com
+ designify.com\nstaging.designify.com
+ designify.com\ndesignify.com\ntest.designify.com
