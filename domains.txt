@@ -1,3 +1,5 @@
+apple.com
+apple.in
 idsync-q.redbull.com
 idsync-d.redbull.com
 guestportal.redbull.com
