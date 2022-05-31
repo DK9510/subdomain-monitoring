@@ -1,10 +1,9 @@
 name: asset monitor
 on:
-   push:
-       paths: 
-         - 'trigger.txt'
-    branches:    
-      - 'work-flow'
+  push:
+    paths:
+      - 'trigger.txt'
+
 # on:
 #  schedule:
 #   # Runs "at minute 55 past every hour" (see https://crontab.guru)
