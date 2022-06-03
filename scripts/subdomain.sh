@@ -12,9 +12,9 @@ cat domains.txt |assetfinder --subs-only | tee asset.txt
 
 ## subfind
 echo "subfind is running ......."
-subfinder -dL domains.txt -all -nc -oJ -silent -o subfind.json 
-cat subfind.json | jq| fgrep "host" | cut -d ':' -f 2| sed 's/"//g'| sed 's/,//g' | tee subfind.txt
-rm subfind.json
+#subfinder -dL domains.txt -all -nc -oJ -silent -o subfind.json 
+#cat subfind.json | jq| fgrep "host" | cut -d ':' -f 2| sed 's/"//g'| sed 's/,//g' | tee subfind.txt
+#rm subfind.json
 #amass
 
 echo "amass is runnnign....."
@@ -22,7 +22,7 @@ amass enum -passive -brute -df domains.txt -o amass.txt
 
 
 cat asset.txt | anew subdomains.txt
-cat subfind.txt | anew subdomains.txt
+#cat subfind.txt | anew subdomains.txt
 cat amass.txt | anew subdomains.txt
 rm -rfd subfind* amass.txt 
 
