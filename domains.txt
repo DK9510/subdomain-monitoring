@@ -1,2 +1,5 @@
 apple.com
 google.com
+spacex.com
+starlink.com
+tenpay.com
