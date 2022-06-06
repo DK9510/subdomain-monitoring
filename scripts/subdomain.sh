@@ -12,13 +12,13 @@ cat domains.txt |assetfinder --subs-only | tee asset.txt
 
 ## subfind
 echo "subfind is running ......."
-#subfinder -dL domains.txt -all -nc -oJ -silent -o subfind.json 
-#cat subfind.json | jq| fgrep "host" | cut -d ':' -f 2| sed 's/"//g'| sed 's/,//g' | tee subfind.txt
-#rm subfind.json
+subfinder -dL domains.txt -all -nc -oJ -silent -o subfind.json 
+cat subfind.json | jq| fgrep "host" | cut -d ':' -f 2| sed 's/"//g'| sed 's/,//g' | tee subfind.txt
+rm subfind.json
 #amass
 
 echo "amass is runnnign....."
-amass enum -passive -brute -df domains.txt -o amass.txt
+amass enum -passive -df domains.txt -o amass.txt
 
 
 cat asset.txt | anew subdomains.txt
@@ -41,7 +41,7 @@ cd ../
 git pull
 git fetch origin main
 git add output/subdomains.txt  
-git config --global user.email "d.b.kapadiya9510@gmail.com"
+git config --global user.email "dk@test.com"
 git config --global user.name "DK9510"
 git commit -a -m "Subdomain enumeration completed"
 git branch -M main 
