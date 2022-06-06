@@ -49,5 +49,5 @@ git push origin main --force
 echo " SUbdomain Enumeraiton is Done..";
 echo "subdomains enumeration done and now sending new subdomains list" | notify -silent -provider-config configs/notify.yaml
 cat output/subdomains.txt| anew monitor.txt |tee tmp.txt
-notify -silent -provider-config configs/notify.yaml -data tmp.txt 
+notify -silent -provider-config configs/notify.yaml -bulk -data tmp.txt 
 rm tmp.txt
