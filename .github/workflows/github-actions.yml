@@ -1,12 +1,12 @@
 name: asset monitor
-#on:
-#  push:
-#    paths:
-#      - 'trigger.txt'
-
 on:
-  schedule:
-    - cron: '10 7 * * *'
+ push:
+   paths:
+     - 'trigger.txt'
+
+# on:
+#   schedule:
+#     - cron: '10 7 * * *'
 # runs every 10 minutes
 
 permissions: write-all 
