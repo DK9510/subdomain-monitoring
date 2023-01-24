@@ -1,8 +1,8 @@
 discord:
   - id: "nuclei"
-    discord_channel: "dk-actions-report"
-    discord_username: "Github-Bot"
+    discord_channel: "continuous-subdomain-monitor"
+    discord_username: "Monitor Bot"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/api/webhooks/961701913852772352/iL8v2VIptJ_M9b1Br2vWhVF1epq-7CDm_I9SD7zfEpMQFlSlNqm1mgj7JxGAqm2-77TJ"
+    discord_webhook_url: "https://discordapp.com/api/webhooks/1067332803840188468/rNtHcz9LNx7LyIPmsWKQTch_Ze_y0VgNRIjLubYWkL3KpSlrsWo72F7-kkM4JFAxBPnA"
 
 # notify -provider-config notify.yaml -data custom text 
