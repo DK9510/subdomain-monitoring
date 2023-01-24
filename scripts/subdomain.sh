@@ -38,14 +38,14 @@ rm -rfd subfind* amass.txt
 rm asset.txt domains.txt  
 cd ../
 #git add final_list.txt
-git pull
-git fetch origin main
-git add output/subdomains.txt  
-git config --global user.email "dk@test.com"
-git config --global user.name "DK9510"
-git commit -a -m "Subdomain enumeration completed"
-git branch -M main 
-git push origin main --force
+# git pull
+# git fetch origin main
+# git add output/subdomains.txt  
+# git config --global user.email "dk@test.com"
+# git config --global user.name "DK9510"
+# git commit -a -m "Subdomain enumeration completed"
+# git branch -M main 
+# git push origin main --force
 echo " SUbdomain Enumeraiton is Done..";
 echo "subdomains enumeration done and now sending new subdomains list" | notify -silent -provider-config configs/notify.yaml
 cat output/subdomains.txt| anew monitor.txt |tee tmp.txt
