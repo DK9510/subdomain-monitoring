@@ -3,6 +3,6 @@ discord:
     discord_channel: "continuous-subdomain-monitor"
     discord_username: "Monitor Bot"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discordapp.com/api/webhooks/1067332803840188468/rNtHcz9LNx7LyIPmsWKQTch_Ze_y0VgNRIjLubYWkL3KpSlrsWo72F7-kkM4JFAxBPnA"
+    discord_webhook_url: "https://discordapp.com/api/webhooks/1067333513239597127/fO4GNrz39LQ19CCWtl8tuNbC1B2mfVotAsLIzLUsWo1RG4ObHFUc2Az4dw9Dh5ouGj9Y"
 
 # notify -provider-config notify.yaml -data custom text 
