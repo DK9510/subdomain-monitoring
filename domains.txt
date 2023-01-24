@@ -1,5 +1,3 @@
-apple.com
-google.com
-spacex.com
-starlink.com
-tenpay.com
+rapyd.com
+rapyd.org
+rapyd.net
